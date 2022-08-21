@@ -17,6 +17,7 @@ nav .nav-link{
   background: url('imgs/main.jpg') no-repeat center center fixed;
   margin: 0;
   height: 700px;
+  width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
